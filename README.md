@@ -39,7 +39,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF - NO CODE REQUIRED | [Get Deal](https://sitely.app/store) | Nov 14 - Dec 5 |
 
 ## 📚 Courses & Learning
 
