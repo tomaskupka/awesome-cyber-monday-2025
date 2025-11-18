@@ -34,6 +34,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% OFF any plan for new customers only, no coupon needed | [Get Deal](https://www.git-tower.com/pricing) | Nov 25 - Dec 7 |
 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied) | [Get Deal](https://www.vue-pdf-viewer.dev/pricing?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | Nov 17 - Dec 1 |
 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied) | [Get Deal](https://www.react-pdf.dev/pricing?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | Nov 17 - Dec 1 |
+| [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API | Use code BLACKFRIDAY2025 for 50% OFF | [Get Deal](https://scrapecreators.com/) | Nov 28 only |
 
 ## 🎨 Design Software
 
