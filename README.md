@@ -56,8 +56,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| Viso(macOS) | Beautiful minimal image
-viewer for macOS | 30% OFF Lifetime | https://getviso.app | Nov 24th 2025 - Dec 4th 2025 |
+| Viso(macOS) | Beautiful minimal image viewer for macOS | 30% OFF Lifetime | https://getviso.app | Nov 24th 2025 - Dec 4th 2025 |
 
 ## 🌐 Hosting & Infrastructure
 
