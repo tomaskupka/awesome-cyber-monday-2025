@@ -104,6 +104,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [AskCory](https://marketing.askcory.ai/) |	Elevate your marketing strategy with AI. Create customised plans and access industry benchmarks in minutes. | 67% OFF on all plans with code CM25 | [Get Deal](https://marketing.askcory.ai/billing) | Nov 28 - Dec 1 |
+| [UXWizz](https://www.uxwizz.com?ref=acm-2025) | Self-hosted Website Analytics with Session Recordings, Heatmaps, Error Tracking, AI and more. | 50% OFF - Buy Once, Use Forever | [Get Deal](https://uxwizz.com/pricing?ref=acm-2025) | Nov 23 - Dec 1 |
 
 ---
 
